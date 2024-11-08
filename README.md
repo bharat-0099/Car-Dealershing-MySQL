@@ -1,7 +1,7 @@
-Car Dealership Database Schema
+**Car Dealership Database Schema**
 This repository contains the SQL schema for a Car Dealership Database. It includes the design for managing customers, vehicles, sales, inventory, service records, and test drives within a car dealership environment.
 
-Features
+**Features**
 
 Customers Table: Stores customer information such as name, email, phone, and address.
 Vehicles Table: Stores details about vehicles, including make, model, year, price, mileage, and status.
@@ -11,7 +11,7 @@ Inventory Table: Manages vehicle stock levels and location within the dealership
 Service Records Table: Keeps track of maintenance and service activities for vehicles.
 Test Drives Table: Records test drives, including vehicle, customer, sales rep, and date.
 
-Database Structure
+**Database Structure**
 The following tables are created:
 
 Customers
